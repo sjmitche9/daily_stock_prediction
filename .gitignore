@@ -1,0 +1,17 @@
+config.py
+crypto_lstm_copy.py
+Main_copy.py
+Main2.py
+testspace.py
+saved_data_222.csv
+saved_data_1621.csv
+saved_data_1766.csv
+saved_data_35105.csv
+saved_data_83728.csv
+/Stock-prediction-XGBoost-master/
+/.ipynb_checkpoints/
+/.vscode/
+/_pycache_/
+/Data/
+/Images/
+/logs/
