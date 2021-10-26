@@ -11,7 +11,7 @@ saved_data_83728.csv
 /Stock-prediction-XGBoost-master/
 /.ipynb_checkpoints/
 /.vscode/
-/_pycache_/
+/__pycache__/
 /Data/
 /Images/
 /logs/
